@@ -32,3 +32,4 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ## Result :
 
+The average number of materials in the system and in the conveyr and waiting time are succesfully found.
